@@ -18,7 +18,9 @@
 
     </form>
     <p>【出力】</p>
+
     <p> <?php
+        #完成版
         #fizznum、bizznumformに値が入力されているときの処理
         #メインの処理
         if (isset($_POST['fizznum'])&& isset($_POST['buzznum']))
