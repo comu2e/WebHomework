@@ -10,8 +10,8 @@
 
 
     <form action="index.php" method="post">
-        <p><?php  echo "FizzNum:"?> < input type="text" name="fizznum" placeholder="整数値を入力してください"></p>
-        <p><?php  echo "BuzzNum:"?> < input type="text" name="buzznum" placeholder="整数値を入力してください"></p>
+        <p><?php  echo "FizzNum:"?> <input type="text" name="fizznum" placeholder="整数値を入力してください"></p>
+        <p><?php  echo "BuzzNum:"?> <input type="text" name="buzznum" placeholder="整数値を入力してください"></p>
 
         <button type="submit" name="execute">実行</button>
 
